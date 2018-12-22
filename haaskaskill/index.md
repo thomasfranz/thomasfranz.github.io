@@ -8,7 +8,8 @@ In order to make this skill work, you need to meet the following requirements:
 - Your Homeassistant installation is accessible on the web by a secure (https) connection 
 - The [Homeassistant smart home api](https://www.home-assistant.io/components/alexa/#smart-home) is activated
 - You have generated a Homeassistant user and API key
-- You have send me an email with that api key, and the url, so that i can map your homeassistant instance to this skill
+- You have send me an email with the email address used for your alexa device, the home assistant api key, and the url of your home assistant instance, so that i can map your homeassistant instance to this skill
 
 ## Privacy Policy
-- [Privacy Policy](haaskaskill/privacy-policy.md)
+The privacy policy is short and availabe here:
+[Privacy Policy](privacy-policy.md)
