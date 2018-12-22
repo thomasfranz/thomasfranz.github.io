@@ -1,6 +1,6 @@
 # Alexa Homeassistant integration
 This skill enables to control devices managed with Homeassistant by amazon Alexa. It is based on 
-1. the nice work of @mike-grant who forked [Haaska](https://github.com/mike-grant/haaska), an implementation that mediates between an alexa smart home skill and the home assistant smart home api 
+1. the nice work of [@mike-grant](https://github.com/mike-grant) who forked [Haaska](https://github.com/mike-grant/haaska), an implementation that mediates between an alexa smart home skill and the home assistant smart home api 
 2. the developers of [Home Assistant](https://github.com/home-assistant/home-assistant) that provide a leightwheigt, yet feature rich smart home software platform, including an alexa-compatible smart home api
 
 ## Requirements and Setup
