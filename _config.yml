@@ -1,3 +1,8 @@
 theme: minima
 name: Technology-Methodology
 title: Technology-Methodology
+minima:
+  social_links:
+    twitter: thfranz
+    github: thomasfranz    
+    linkedin: thomas-franz
