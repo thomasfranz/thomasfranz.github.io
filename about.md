@@ -12,3 +12,7 @@ I am enthusiastic also about football, triathlon, and sim racing.
 - Education: CS
 - Practice: IT-Consulting
 - Research: Semantic Web and AI
+
+## Work
+I am a full professor at the [University of Applied Sciences Düsseldorf - (Hochschule Düsseldorf)](https://www.hs-duesseldorf.de).
+I am also working with industry, commerce and administration in various projects.
