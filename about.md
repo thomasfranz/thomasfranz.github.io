@@ -1,6 +1,10 @@
+# About
+
 ## Interests
+I enjoy to combine theory and science with real world information technology and real world challenges.
+I am enthusiastic also about football, triathlon, and sim racing.
 
 ## Background
 - Education: CS
 - Practice: IT-Consulting
-- Science: Semantic Web and AI
+- Research: Semantic Web and AI
