@@ -1,10 +1,12 @@
 theme: minima
 name: Technology-Methodology
 title: Technology-Methodology
+author: "Thomas Franz"
 
 minima:
   show_excerpts: true
-  header_pages:
+
+header_pages:
   - about.md
   - portfolio.md
 
@@ -15,3 +17,8 @@ social_links:
     username: thomasfranz    
   linkedin: 
     username: thomas-franz
+
+# Minima social links
+twitter_username: thfranz
+github_username: thomasfranz
+linkedin_username: thomas-franz
