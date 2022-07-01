@@ -4,9 +4,12 @@ title: Technology-Methodology
 
 minima:
   social_links:
-    twitter: thfranz
-    github: thomasfranz    
-    linkedin: thomas-franz
+    twitter: 
+      username: thfranz
+    github: 
+      username: thomasfranz    
+    linkedin: 
+      username: thomas-franz
   show_excerpts: true
   header_pages:
   - about.md
