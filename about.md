@@ -1,4 +1,8 @@
-# About
+---
+permalink: /about
+layout: page
+title: About me
+---
 
 ## Interests
 I enjoy to combine theory and science with real world information technology and real world challenges.
