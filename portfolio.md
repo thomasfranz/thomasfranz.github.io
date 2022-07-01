@@ -1,3 +1,9 @@
+---
+title: Services
+permalink: /services
+layout: page
+---
+
 I am consulting companies and administration in the field of IT-Strategy, Software-Engineering, Software-Architecture.
 Typical activities:
 - Explaining and extracting potentials of new information technology with business-representatives and domain experts.
