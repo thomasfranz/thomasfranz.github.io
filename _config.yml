@@ -3,14 +3,15 @@ name: Technology-Methodology
 title: Technology-Methodology
 
 minima:
-  social_links:
-    twitter: 
-      username: thfranz
-    github: 
-      username: thomasfranz    
-    linkedin: 
-      username: thomas-franz
   show_excerpts: true
   header_pages:
   - about.md
   - portfolio.md
+
+social_links:
+  twitter: 
+    username: thfranz
+  github: 
+    username: thomasfranz    
+  linkedin: 
+    username: thomas-franz
