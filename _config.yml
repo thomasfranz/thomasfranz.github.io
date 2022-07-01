@@ -9,6 +9,8 @@ minima:
 header_pages:
   - about.md
   - portfolio.md
+  - teaching.md
+  - research.md
 
 social_links:
   twitter: 
