@@ -2,6 +2,9 @@ theme: minima
 name: Technology-Methodology
 title: Technology-Methodology
 show_excerpts: true
+header_pages:
+  - about.md
+  - portfolio.md
 minima:
   social_links:
     twitter: thfranz
