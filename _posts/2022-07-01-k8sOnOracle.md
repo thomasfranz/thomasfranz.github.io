@@ -1,6 +1,6 @@
 ---
 title: "Trying out the Oracle Kubernetes Offering"
-date: 2020-07-01
+date: 2022-07-01
 layout: post
 ---
 
