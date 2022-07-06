@@ -1,0 +1,4 @@
+.jekyll-cache
+*/*.html
+feed.xml
+_site/

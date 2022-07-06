@@ -2,6 +2,7 @@
 title: "Trying out the Oracle Kubernetes Offering"
 date: 2022-07-01
 layout: post
+category: teaching
 ---
 
 For the masters class on _Advanced Software Engineering_ I prepared some demo on Kubernetes to illustrate core concepts like _POD_, _ReplicaSet_, _Deployment_.
