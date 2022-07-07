@@ -3,8 +3,13 @@ name: Technology-Methodology
 title: Technology-Methodology
 author: "Thomas Franz"
 
+page_excerpts: true
+
 minima:
   show_excerpts: true
+
+# Google Analytics
+google_analytics: UA—24341772-1
 
 header_pages:
   - about.md

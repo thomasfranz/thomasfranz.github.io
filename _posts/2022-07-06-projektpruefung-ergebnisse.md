@@ -2,7 +2,7 @@
 title: "Projektprüfung: Arbeitsergebnisse"
 date: 2022-07-06
 layout: post
-category: teaching
+tags: teaching grading
 ---
 
 An der [HSD](https://www.hs-duesseldorf.de) werden im Bachelor- und Masterstudium _Medieninformatik_ viele Module als Projekte umgesetzt. Eine Projektprüfung bei mir umfasst folgende Ergebnisse:
