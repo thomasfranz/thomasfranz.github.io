@@ -9,7 +9,8 @@ minima:
   show_excerpts: true
 
 # Google Analytics
-google_analytics: UA—24341772-1
+google_analytics: G-C7YJZ5N48G
+
 
 header_pages:
   - about.md
