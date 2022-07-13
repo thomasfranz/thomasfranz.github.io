@@ -2,6 +2,9 @@ theme: minima
 name: Technology-Methodology
 title: Technology-Methodology
 author: "Thomas Franz"
+  name: "Thomas Franz"
+  email: "thomas.franz@hs-duesseldorf.de"
+
 
 page_excerpts: true
 
@@ -9,7 +12,7 @@ minima:
   show_excerpts: true
 
 # Google Analytics
-google_analytics: UA—24341772-1
+google_analytics: G-C7YJZ5N48G
 
 header_pages:
   - about.md
