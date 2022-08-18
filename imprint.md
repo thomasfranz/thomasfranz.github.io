@@ -1,5 +1,5 @@
 ---
-permalink: /imprint
+permalink: /imprint.html
 layout: page
 title: Imprint/Impressum
 ---

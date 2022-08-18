@@ -1,5 +1,5 @@
 ---
-permalink: /research
+permalink: /research.html
 layout: page
 title: Research
 ---

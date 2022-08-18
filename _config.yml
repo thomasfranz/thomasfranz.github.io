@@ -10,9 +10,6 @@ page_excerpts: true
 minima:
   show_excerpts: true
 
-# Google Analytics
-google_analytics: G-C7YJZ5N48G
-
 header_pages:
   - about.md
   - teaching.md
