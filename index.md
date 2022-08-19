@@ -5,4 +5,4 @@ title: Welcome
 list_title: Blog posts
 ---
 
-This is the web page of Thomas Franz, conatining blog posts and pointers to different work-related activities and results produced by them ;)
+This is the web page of Thomas Franz, containing blog posts and pointers to different work-related activities and results produced by them ;)
